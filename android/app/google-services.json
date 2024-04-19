@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169486631197",
+    "project_id": "medical-appointments-8f543",
+    "storage_bucket": "medical-appointments-8f543.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169486631197:android:b89ce9bdfbd03baa2da1f4",
+        "android_client_info": {
+          "package_name": "com.example.graduateproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaO0pmTdVju6CduTqxJdJdSUBK4jVQNB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
